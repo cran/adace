@@ -1,0 +1,14 @@
+e3a7b17b05cf570c5b76830c8a69cb10 *DESCRIPTION
+f4654dc95c0b6deeb59f582548c72b6b *NAMESPACE
+3ef9d8a528c68d6197331a0ded9f4ce0 *NEWS.md
+c8e5614c03554962a3e9d858d98c3684 *R/est_S_Plus_Plus_MethodA.R
+0f409ee49d2450990df692ca00c1c6a5 *R/est_S_Plus_Plus_MethodB.R
+739144bba92c88e4ada95aba7cabdec5 *R/est_S_Star_Plus_MethodA.R
+badef5268a39630caa98753afe96146c *R/est_S_Star_Plus_MethodB.R
+441d6b9149e026a1000907baca9c9a28 *R/utility_functions.R
+f05ae6e349a9d2f2aa21b8261743ce01 *man/est_S_Plus_Plus_MethodA.Rd
+75eb00e7151c08e084997a87b9f07bd6 *man/est_S_Plus_Plus_MethodB.Rd
+229c5cc449c67fc726cbbdf5afd518f0 *man/est_S_Star_Plus_MethodA.Rd
+4ba27148f797d7ff69427070076ed9e9 *man/est_S_Star_Plus_MethodB.Rd
+0a02ce7998c0dc77a1b7665de81f4fc4 *tests/testthat.R
+e32456d202979afa72db5d4829088944 *tests/testthat/test-adace_func.R
