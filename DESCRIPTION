@@ -1,6 +1,6 @@
 Package: adace
 Title: Estimator of the Adherer Average Causal Effect
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
   person(
     given = "Jiaxun",
@@ -41,12 +41,12 @@ Description: Estimate the causal treatment effect for subjects that can adhere
     Zhang et. al., (2021) <doi:10.1080/19466315.2021.1891965>. 
 License: GPL (>= 3)
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Depends: R (>= 4.0.0)
 Suggests: testthat (>= 3.0.0), cubature (>= 2.0.4), MASS (>= 7.3-55)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-03-21 19:25:21 UTC; capec
+Packaged: 2023-08-27 21:10:05 UTC; capec
 Author: Jiaxun Chen [aut],
   Rui Jin [aut],
   Yongming Qu [aut],
@@ -55,4 +55,4 @@ Author: Jiaxun Chen [aut],
   Eli Lilly and Company [cph]
 Maintainer: Run Zhuang <capecod0321@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-03-22 17:00:02 UTC
+Date/Publication: 2023-08-28 13:10:02 UTC

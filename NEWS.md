@@ -1,3 +1,5 @@
-# adace 1.0.1
+# adace 1.0.2
 
-- Initial release for adherer's estimands. 
+- Second release of adherer's estimands. 
+- Version 2 updates: fixed estimation of standard errors and 
+relaxed assumption of dropout before the first timepoint. 
